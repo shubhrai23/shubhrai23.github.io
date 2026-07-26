@@ -1,21 +1,19 @@
-# [ritwik12.github.io](https://ritwik12.github.io)
+# [shubhrai23.github.io](https://shubhrai23.github.io)
 
-My personal portfolio website â€” a single-page site introducing me, my work, my projects, blog, and resume.
+My personal portfolio website — a single-page site introducing me, my work, my projects, and resume.
 
-ðŸ”— **Live:** https://ritwik12.github.io
+?? **Live:** https://shubhrai23.github.io
 
 ## About
 
-I'm Ritwik Sharma, a Software Engineer on the Infrastructure team at LinkedIn, working on
-distributed systems, developer tooling, and notification platforms.
+I'm Shubh Rai, a B.Tech IT student at Delhi Technological University and a Full Stack Developer Intern at Eythor Private Limited, passionate about solving hard problems with code and AI.
 
 ## Sections
 
-- **About** â€” who I am and what I work on
-- **Blog** â€” embedded view of [my blog](https://ritwik12.github.io/Blog/)
-- **Projects** â€” LinkedIn work and open-source / personal projects
-- **Resume** â€” viewable and downloadable PDF
-- **Contact** â€” how to reach me
+- **About** — who I am and what I work on
+- **Projects** — open-source and personal projects
+- **Resume** — viewable and downloadable PDF
+- **Contact** — how to reach me
 
 ## Tech
 
@@ -26,22 +24,22 @@ distributed systems, developer tooling, and notification platforms.
 
 ## Local development
 
-It's a static site â€” no build step. Just open `index.html`, or serve the folder:
+It's a static site — no build step. Just open index.html, or serve the folder:
 
-```bash
-python3 -m http.server 8000
+``bash
+python -m http.server 8000
 # then visit http://localhost:8000
-```
+``
 
 ## Project structure
 
-```
+``
 index.html            # the whole page
 assets/
   css/style.css       # site styles
   js/main.js          # nav, smooth scroll, hero typing, AOS init
   canvas/flock.js     # p5.js boids animation
   img/                # images (optimized)
-  Ritwik_Resume.pdf   # resume
+  SR Resume.pdf       # resume
   vendor/             # third-party libraries
-```
+``
